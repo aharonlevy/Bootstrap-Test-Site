@@ -1,7 +1,67 @@
 /* this is the color schime https://colorhunt.co/palette/f76e11ff9f45ffbc80fc4f4f */
 
+body {
+  font-family: "Montserrat-black";
+}
+
 /********************  class ************************************/
 
 #first-section {
   background-color: #ff9f45;
+  color: #fff;
+}
+
+.Montserrat-3rem-15lineH {
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+.rotate {
+  width: 50%;
+  transform: rotate(25deg);
+}
+
+/* navigatin-bar */
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* download buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.bigger {
+  font-size: 3.5rem;
+  font-family: "Montserrat-black";
+  font-weight: bolder;
+}
+
+/* Fatures */
+
+.second-background {
+  background-color: #f76e11;
+}
+.features-basic-font-style {
+  font-family: "Montserrat-bold";
 }
