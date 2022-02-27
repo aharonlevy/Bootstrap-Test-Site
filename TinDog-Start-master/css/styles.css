@@ -134,3 +134,25 @@ h3 {
 .pricing-col {
   padding: 3% 2%;
 }
+
+/* Call to Action */
+
+#cta {
+  text-align: center;
+  font-family: "Montserrat-black";
+  background-color: #ff9f45;
+  padding: 0 25%;
+}
+
+.cta-h3 {
+  color: #fff;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+}
+
+.copy {
+  margin: 1% auto;
+}
